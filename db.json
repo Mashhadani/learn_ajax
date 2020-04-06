@@ -1,6 +1,6 @@
 {
-name: Hassan,
-lastName: Mashhadani,
-age: 30,
-country: Iraq
+   "name":"Hassan",
+   "lastName":"Mashhadani",
+   "age":30,
+   "country":"Iraq"
 }
